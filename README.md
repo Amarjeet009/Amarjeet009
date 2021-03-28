@@ -6,21 +6,21 @@
 - 📫 you can reach through email: amarjeetrao@outlook.com
 ## TECHNICAL SKILLS
 
--Operating Systems	MS Windows, Ubuntu 16.04.XX Desktop
+-Operating Systems :	MS Windows, Ubuntu 16.04.XX Desktop
 
--Programming Languages	JavaScript, Typescript, Node.js, JAVA, Springboot, microservice
+-Programming Languages:	JavaScript, Typescript, Node.js, JAVA, Springboot, microservice
 
--Internet Technologies	Web Services( REST API), JSON, Socket.io
+-Internet Technologies:	Web Services( REST API), JSON, Socket.io
 
--Frameworks/Libraries	Angular JS, Angular 9+, Reactjs, ReactNative, Charting Libraries(high charts, chartjs, D3 charts, fusion charts tec..).
+-Frameworks/Libraries:	Angular JS, Angular 9+, Reactjs, ReactNative, Charting Libraries(high charts, chartjs, D3 charts, fusion charts tec..).
 
--Web Designing	      HTML 5,CSS 3, JavaScript, Bootstrap 4, Angular-materials, PrimeNg, NgBootstrap, EXPO
+-Web Designing:      HTML 5,CSS 3, JavaScript, Bootstrap 4, Angular-materials, PrimeNg, NgBootstrap, EXPO
 
--Web/Application Servers	Apache Tomcat 9.X, Node JS
+-Web/Application Servers:	Apache Tomcat 9.X, Node JS
 
--Databases	            MySQL, MongoDB(No SQL), HBASE, HIVE
+-Databases:            MySQL, MongoDB(No SQL), HBASE, HIVE
 
--Other	            MS Office, CRM/ERP
+-Other:	            MS Office, CRM/ERP
 
 
 <!---
